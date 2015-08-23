@@ -88,4 +88,4 @@ fbodybodyaccjerkmag-std	Standard deviation of frequency of body acceleration jer
 fbodybodygyromag-mean	Mean frequency of magnitude of body gyroscope measurement
 fbodybodygyromag-std	Standard deviation of frequency of magnitude of body gyroscope measurement
 fbodybodygyrojerkmag-mean	Mean frequency of magnitude of body gyroscope jerk measurement
-fbodybodygyrojerkmag-std	Standard deviation frequency of magnitude of body gyroscope jerk measurement
+fbodybodygyrojerkmag-std	Standard deviation frequency of magnitude of body gyroscope jerk measurement 
