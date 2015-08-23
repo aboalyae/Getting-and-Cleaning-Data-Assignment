@@ -54,4 +54,4 @@ for (s in 1:ns){
 		row=row+1
 	}
 }
-write.table(td,"tidyData2.txt")
+write.table(td,"tidyData2.txt",row.names=FALSE)
